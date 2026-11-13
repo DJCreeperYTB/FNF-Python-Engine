@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [1.0.0] - 2026-11-13
+## [1.0.0] - 2026-08-09
 
 The first public release of FNF Python Engine!
 
