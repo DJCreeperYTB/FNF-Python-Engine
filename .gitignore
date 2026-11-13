@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+fnf_assets/
+build/
+dist/
+*.spec
