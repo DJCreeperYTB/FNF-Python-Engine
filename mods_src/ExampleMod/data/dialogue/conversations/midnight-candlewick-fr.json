@@ -1,0 +1,55 @@
+{
+  "version": "1.0.0",
+  "backdrop": {
+    "type": "solid",
+    "fadeTime": 0.6,
+    "color": "#D00A0612"
+  },
+  "music": {
+    "asset": "breakfast",
+    "fadeTime": 1.0,
+    "looped": true
+  },
+  "outro": {
+    "type": "fade",
+    "fadeTime": 0.6
+  },
+  "dialogue": [
+    {
+      "speaker": "djcreeper",
+      "speakerAnimation": "talk",
+      "box": "halloween-bubble",
+      "boxAnimation": "idle",
+      "text": [
+        "Les bougies bougent toutes seules. Elles nous écoutent ?"
+      ]
+    },
+    {
+      "speaker": "spooky-kids",
+      "speakerAnimation": "talk",
+      "box": "halloween-bubble",
+      "boxAnimation": "idle",
+      "text": [
+        "Bien sûr. Minuit est leur chanson préférée. Ne rate aucun temps !"
+      ]
+    },
+    {
+      "speaker": "djcreeper",
+      "speakerAnimation": "talk",
+      "box": "halloween-bubble",
+      "boxAnimation": "idle",
+      "text": [
+        "Ces citrouilles... elles me regardent."
+      ]
+    },
+    {
+      "speaker": "spooky-kids",
+      "speakerAnimation": "talk",
+      "box": "halloween-bubble",
+      "boxAnimation": "idle",
+      "text": [
+        "Alors danse pour elles, petit vert. Jusqu'à la dernière flamme."
+      ]
+    }
+  ]
+}

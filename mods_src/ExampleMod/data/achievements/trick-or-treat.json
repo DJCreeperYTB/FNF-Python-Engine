@@ -1,0 +1,8 @@
+{
+  "name": "Trick or Treat",
+  "name_fr": "Trick or Treat",
+  "description": "Hit every candy note of a song.",
+  "description_fr": "Touche toutes les notes bonbon d'une chanson.",
+  "icon": "djcreeper",
+  "hidden": false
+}

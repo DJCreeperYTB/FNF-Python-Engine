@@ -1,0 +1,8 @@
+{
+  "name": "Hex-free",
+  "name_fr": "Sans maléfice",
+  "description": "Finish a song without hitting a single hex note.",
+  "description_fr": "Finis une chanson sans toucher une seule note maudite.",
+  "icon": "djcreeper",
+  "hidden": false
+}

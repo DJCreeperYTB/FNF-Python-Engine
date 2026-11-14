@@ -1,0 +1,65 @@
+{
+  "version": "1.1.0",
+  "name": "Halloween",
+  "fallback": "funkin",
+  "assets": {
+    "note": {
+      "assetPath": "halloween/notes",
+      "data": {
+        "left": {
+          "prefix": "noteLeft"
+        },
+        "down": {
+          "prefix": "noteDown"
+        },
+        "up": {
+          "prefix": "noteUp"
+        },
+        "right": {
+          "prefix": "noteRight"
+        }
+      }
+    },
+    "noteStrumline": {
+      "assetPath": "halloween/noteStrumline",
+      "data": {
+        "leftStatic": {
+          "prefix": "staticLeft0"
+        },
+        "leftPress": {
+          "prefix": "pressLeft0"
+        },
+        "leftConfirm": {
+          "prefix": "confirmLeft0"
+        },
+        "downStatic": {
+          "prefix": "staticDown0"
+        },
+        "downPress": {
+          "prefix": "pressDown0"
+        },
+        "downConfirm": {
+          "prefix": "confirmDown0"
+        },
+        "upStatic": {
+          "prefix": "staticUp0"
+        },
+        "upPress": {
+          "prefix": "pressUp0"
+        },
+        "upConfirm": {
+          "prefix": "confirmUp0"
+        },
+        "rightStatic": {
+          "prefix": "staticRight0"
+        },
+        "rightPress": {
+          "prefix": "pressRight0"
+        },
+        "rightConfirm": {
+          "prefix": "confirmRight0"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "version": "2.2.4",
+  "songName": "Pumpkin",
+  "artist": "DJCreeper + Python Engine",
+  "charter": "Python Engine",
+  "playData": {
+    "difficulties": [
+      "erect",
+      "nightmare"
+    ],
+    "characters": {
+      "player": "djcreeper",
+      "girlfriend": "gf-dark",
+      "opponent": "monster",
+      "playerVocals": [
+        "djcreeper"
+      ],
+      "opponentVocals": [
+        "monster"
+      ]
+    },
+    "stage": "halloween-night-nightmare",
+    "noteStyle": "halloween",
+    "album": "halloween-night",
+    "previewStart": 4000,
+    "ratings": {
+      "erect": 10,
+      "nightmare": 13
+    }
+  },
+  "timeChanges": [
+    {
+      "t": 0,
+      "bpm": 140
+    },
+    {
+      "t": 48000.00000000002,
+      "bpm": 160
+    }
+  ]
+}

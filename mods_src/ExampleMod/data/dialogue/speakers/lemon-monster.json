@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "name": "Lemon Monster",
+  "assetPath": "shared:characters/monster",
+  "isPixel": false,
+  "scale": 0.8,
+  "hiddenLayers": [
+    "HAT"
+  ],
+  "offsets": [
+    -714.5,
+    -150.5
+  ],
+  "sounds": [
+    "sounds/dialogue/monster-1.ogg",
+    "sounds/dialogue/monster-2.ogg",
+    "sounds/dialogue/monster-3.ogg",
+    "sounds/dialogue/monster-4.ogg",
+    "sounds/dialogue/monster-5.ogg",
+    "sounds/dialogue/monster-6.ogg"
+  ],
+  "animations": [
+    {
+      "name": "talk",
+      "prefix": "Idle",
+      "frameRate": 24,
+      "looped": true
+    }
+  ]
+}

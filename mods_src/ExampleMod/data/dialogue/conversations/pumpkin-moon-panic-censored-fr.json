@@ -1,0 +1,55 @@
+{
+  "version": "1.0.0",
+  "backdrop": {
+    "type": "solid",
+    "fadeTime": 0.6,
+    "color": "#D00A0612"
+  },
+  "music": {
+    "asset": "breakfast",
+    "fadeTime": 1.0,
+    "looped": true
+  },
+  "outro": {
+    "type": "fade",
+    "fadeTime": 0.6
+  },
+  "dialogue": [
+    {
+      "speaker": "lemon-monster",
+      "speakerAnimation": "talk",
+      "box": "halloween-bubble",
+      "boxAnimation": "idle",
+      "text": [
+        "RAAAWR ! Qui ose chanter dans mon champ de citrouilles ?! Dégage d'ici !"
+      ]
+    },
+    {
+      "speaker": "djcreeper",
+      "speakerAnimation": "talk",
+      "box": "halloween-bubble",
+      "boxAnimation": "idle",
+      "text": [
+        "Euh... un visiteur. C'est... du citron ?"
+      ]
+    },
+    {
+      "speaker": "lemon-monster",
+      "speakerAnimation": "talk",
+      "box": "halloween-bubble",
+      "boxAnimation": "idle",
+      "text": [
+        "LEMON MONSTER ! La Lune Citrouille se lève... maintenant on PANIQUE !"
+      ]
+    },
+    {
+      "speaker": "djcreeper",
+      "speakerAnimation": "talk",
+      "box": "halloween-bubble",
+      "boxAnimation": "idle",
+      "text": [
+        "Sss... alors faisons du bruit !"
+      ]
+    }
+  ]
+}

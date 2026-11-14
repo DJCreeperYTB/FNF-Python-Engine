@@ -1,0 +1,39 @@
+{
+  "version": "1.0.0",
+  "name": "DJCreeper",
+  "assetPath": "characters/djcreeper",
+  "isPixel": false,
+  "scale": 1.05,
+  "flipX": true,
+  "offsets": [
+    322,
+    -204
+  ],
+  "sounds": [
+    "sounds/dialogue/djc-1.ogg",
+    "sounds/dialogue/djc-2.ogg",
+    "sounds/dialogue/djc-3.ogg",
+    "sounds/dialogue/djc-4.ogg",
+    "sounds/dialogue/djc-5.ogg",
+    "sounds/dialogue/djc-6.ogg"
+  ],
+  "animations": [
+    {
+      "name": "talk",
+      "prefix": "DJC idle",
+      "frameRate": 24,
+      "looped": true
+    },
+    {
+      "name": "hey",
+      "prefix": "DJC hey",
+      "frameRate": 24
+    },
+    {
+      "name": "laugh",
+      "prefix": "DJC laugh",
+      "frameRate": 24,
+      "looped": true
+    }
+  ]
+}

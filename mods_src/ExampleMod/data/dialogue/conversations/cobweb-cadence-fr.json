@@ -1,0 +1,55 @@
+{
+  "version": "1.0.0",
+  "backdrop": {
+    "type": "solid",
+    "fadeTime": 0.6,
+    "color": "#D00A0612"
+  },
+  "music": {
+    "asset": "breakfast",
+    "fadeTime": 1.0,
+    "looped": true
+  },
+  "outro": {
+    "type": "fade",
+    "fadeTime": 0.6
+  },
+  "dialogue": [
+    {
+      "speaker": "spooky-kids",
+      "speakerAnimation": "talk",
+      "box": "halloween-bubble",
+      "boxAnimation": "idle",
+      "text": [
+        "Hehe... un creeper dans NOTRE manoir ? La nuit d'Halloween ?"
+      ]
+    },
+    {
+      "speaker": "djcreeper",
+      "speakerAnimation": "talk",
+      "box": "halloween-bubble",
+      "boxAnimation": "idle",
+      "text": [
+        "Sss... je venais juste voir pourquoi les lumières clignotent."
+      ]
+    },
+    {
+      "speaker": "spooky-kids",
+      "speakerAnimation": "talk",
+      "box": "halloween-bubble",
+      "boxAnimation": "idle",
+      "text": [
+        "C'est nous ! Skid, Pump et mille toiles d'araignée. Chante si tu veux sortir !"
+      ]
+    },
+    {
+      "speaker": "djcreeper",
+      "speakerAnimation": "talk",
+      "box": "halloween-bubble",
+      "boxAnimation": "idle",
+      "text": [
+        "D'accord. Mais je n'exploserai pas... normalement."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "name": "Spooky Kids",
+  "assetPath": "shared:characters/SpookyKids",
+  "isPixel": false,
+  "scale": 0.75,
+  "offsets": [
+    -291,
+    -54.5
+  ],
+  "sounds": [
+    "sounds/dialogue/spooky-1.ogg",
+    "sounds/dialogue/spooky-2.ogg",
+    "sounds/dialogue/spooky-3.ogg",
+    "sounds/dialogue/spooky-4.ogg",
+    "sounds/dialogue/spooky-5.ogg",
+    "sounds/dialogue/spooky-6.ogg"
+  ],
+  "animations": [
+    {
+      "name": "talk",
+      "prefix": "spooky dance idle0",
+      "frameRate": 24,
+      "looped": true
+    }
+  ]
+}

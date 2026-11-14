@@ -1,0 +1,106 @@
+{
+  "version": "1.0.0",
+  "name": "Halloween Night",
+  "cameraZoom": 1.0,
+  "directory": "week2",
+  "props": [
+    {
+      "name": "halloweenBG",
+      "assetPath": "halloween_bg",
+      "position": [
+        -395,
+        -505
+      ],
+      "scroll": [
+        1,
+        1
+      ],
+      "zIndex": -100,
+      "danceEvery": 0,
+      "animType": "animateatlas",
+      "startingAnimation": "idle",
+      "animations": [
+        {
+          "name": "idle",
+          "prefix": "static",
+          "looped": false
+        },
+        {
+          "name": "lightning",
+          "prefix": "thunder",
+          "looped": false
+        }
+      ]
+    },
+    {
+      "name": "pumpkinsLeft",
+      "assetPath": "halloween/pumpkins",
+      "position": [
+        -100,
+        612
+      ],
+      "scale": [
+        0.78,
+        0.78
+      ],
+      "scroll": [
+        1.25,
+        1.25
+      ],
+      "zIndex": 500
+    },
+    {
+      "name": "pumpkinsRight",
+      "assetPath": "halloween/pumpkins",
+      "position": [
+        1215,
+        730
+      ],
+      "scale": [
+        0.62,
+        0.62
+      ],
+      "scroll": [
+        1.25,
+        1.25
+      ],
+      "flipX": true,
+      "zIndex": 501
+    }
+  ],
+  "characters": {
+    "bf": {
+      "position": [
+        1020,
+        885
+      ],
+      "zIndex": 300,
+      "cameraOffsets": [
+        -100,
+        -100
+      ]
+    },
+    "gf": {
+      "position": [
+        751.5,
+        787
+      ],
+      "zIndex": 100,
+      "cameraOffsets": [
+        0,
+        0
+      ]
+    },
+    "dad": {
+      "position": [
+        382,
+        865
+      ],
+      "zIndex": 200,
+      "cameraOffsets": [
+        150,
+        -100
+      ]
+    }
+  }
+}

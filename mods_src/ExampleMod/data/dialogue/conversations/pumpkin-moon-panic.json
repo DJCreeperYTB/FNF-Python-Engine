@@ -1,0 +1,55 @@
+{
+  "version": "1.0.0",
+  "backdrop": {
+    "type": "solid",
+    "fadeTime": 0.6,
+    "color": "#D00A0612"
+  },
+  "music": {
+    "asset": "breakfast",
+    "fadeTime": 1.0,
+    "looped": true
+  },
+  "outro": {
+    "type": "fade",
+    "fadeTime": 0.6
+  },
+  "dialogue": [
+    {
+      "speaker": "lemon-monster",
+      "speakerAnimation": "talk",
+      "box": "halloween-bubble",
+      "boxAnimation": "idle",
+      "text": [
+        "RAAAWR! Who dares sing in my pumpkin patch?! I'll carve your blocky skull like a jack-o'-lantern!"
+      ]
+    },
+    {
+      "speaker": "djcreeper",
+      "speakerAnimation": "talk",
+      "box": "halloween-bubble",
+      "boxAnimation": "idle",
+      "text": [
+        "Uh... a visitor. Is that... lemon?"
+      ]
+    },
+    {
+      "speaker": "lemon-monster",
+      "speakerAnimation": "talk",
+      "box": "halloween-bubble",
+      "boxAnimation": "idle",
+      "text": [
+        "LEMON MONSTER! The Pumpkin Moon rises... now we PANIC!"
+      ]
+    },
+    {
+      "speaker": "djcreeper",
+      "speakerAnimation": "talk",
+      "box": "halloween-bubble",
+      "boxAnimation": "idle",
+      "text": [
+        "Sss... then let's make some noise!"
+      ]
+    }
+  ]
+}

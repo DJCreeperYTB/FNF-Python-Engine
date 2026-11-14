@@ -1,0 +1,8 @@
+{
+  "name": "Halloween Night (Example Mod)",
+  "description": "Example mod: a Halloween week with 3 songs + Nightmare remixes, dialogues (EN/FR), a video, a playable DJCreeper, a stage, special notes, Dadbattle-style effects and Python scripts. Read the PDF guide to learn how it works!",
+  "author": "Python Engine",
+  "version": "2.0.0",
+  "icon": "icon.png",
+  "priority": 0
+}

@@ -1,0 +1,42 @@
+{
+  "version": "2.2.4",
+  "songName": "Candlewick",
+  "artist": "DJCreeper + Python Engine",
+  "charter": "Python Engine",
+  "playData": {
+    "difficulties": [
+      "easy",
+      "normal",
+      "hard"
+    ],
+    "songVariations": [
+      "erect"
+    ],
+    "characters": {
+      "player": "djcreeper",
+      "girlfriend": "gf",
+      "opponent": "spooky",
+      "playerVocals": [
+        "djcreeper"
+      ],
+      "opponentVocals": [
+        "spooky"
+      ]
+    },
+    "stage": "halloween-night",
+    "noteStyle": "halloween",
+    "album": "halloween-night",
+    "previewStart": 4000,
+    "ratings": {
+      "easy": 1,
+      "normal": 4,
+      "hard": 7
+    }
+  },
+  "timeChanges": [
+    {
+      "t": 0,
+      "bpm": 92
+    }
+  ]
+}

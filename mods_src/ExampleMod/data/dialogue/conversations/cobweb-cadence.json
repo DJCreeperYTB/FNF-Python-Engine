@@ -1,0 +1,55 @@
+{
+  "version": "1.0.0",
+  "backdrop": {
+    "type": "solid",
+    "fadeTime": 0.6,
+    "color": "#D00A0612"
+  },
+  "music": {
+    "asset": "breakfast",
+    "fadeTime": 1.0,
+    "looped": true
+  },
+  "outro": {
+    "type": "fade",
+    "fadeTime": 0.6
+  },
+  "dialogue": [
+    {
+      "speaker": "spooky-kids",
+      "speakerAnimation": "talk",
+      "box": "halloween-bubble",
+      "boxAnimation": "idle",
+      "text": [
+        "Hehe... a creeper in OUR mansion? On Halloween night?"
+      ]
+    },
+    {
+      "speaker": "djcreeper",
+      "speakerAnimation": "talk",
+      "box": "halloween-bubble",
+      "boxAnimation": "idle",
+      "text": [
+        "Sss... I only came to find out why the lights keep flickering."
+      ]
+    },
+    {
+      "speaker": "spooky-kids",
+      "speakerAnimation": "talk",
+      "box": "halloween-bubble",
+      "boxAnimation": "idle",
+      "text": [
+        "That's us! Skid, Pump and a thousand cobwebs. Sing for your life!"
+      ]
+    },
+    {
+      "speaker": "djcreeper",
+      "speakerAnimation": "talk",
+      "box": "halloween-bubble",
+      "boxAnimation": "idle",
+      "text": [
+        "Fine. But I won't explode... probably."
+      ]
+    }
+  ]
+}

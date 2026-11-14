@@ -1,1 +1,4 @@
-pygame-ce>=2.4
+pygame-ce==2.5.8
+Pillow>=10
+# Cinématiques vidéo (optionnel) :
+av>=12

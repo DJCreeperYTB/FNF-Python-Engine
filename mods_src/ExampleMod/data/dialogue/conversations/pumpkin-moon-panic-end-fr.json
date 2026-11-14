@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "backdrop": {
+    "type": "solid",
+    "fadeTime": 0.6,
+    "color": "#D00A0612"
+  },
+  "music": {
+    "asset": "breakfast",
+    "fadeTime": 1.0,
+    "looped": true
+  },
+  "outro": {
+    "type": "fade",
+    "fadeTime": 0.6
+  },
+  "dialogue": [
+    {
+      "speaker": "lemon-monster",
+      "speakerAnimation": "talk",
+      "box": "halloween-bubble",
+      "boxAnimation": "idle",
+      "text": [
+        "...Bon. Prends les bonbons. Et la lune aussi, tant que tu y es."
+      ]
+    },
+    {
+      "speaker": "djcreeper",
+      "speakerAnimation": "hey",
+      "box": "halloween-bubble",
+      "boxAnimation": "idle",
+      "text": [
+        "Joyeux Halloween, tout le monde !"
+      ]
+    }
+  ]
+}

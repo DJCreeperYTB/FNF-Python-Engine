@@ -1,0 +1,96 @@
+{
+  "version": "1.0.0",
+  "name": "DJCreeper",
+  "assetPath": "characters/djcreeper",
+  "flipX": false,
+  "scale": 1.0,
+  "isPixel": false,
+  "offsets": [
+    0,
+    22
+  ],
+  "cameraOffsets": [
+    -20,
+    20
+  ],
+  "singTime": 8.0,
+  "startingAnimation": "idle",
+  "healthIcon": {
+    "id": "djcreeper"
+  },
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "DJC idle",
+      "frameRate": 24,
+      "looped": false
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "DJC singLEFT",
+      "frameRate": 24
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "DJC singDOWN",
+      "frameRate": 24
+    },
+    {
+      "name": "singUP",
+      "prefix": "DJC singUP",
+      "frameRate": 24
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "DJC singRIGHT",
+      "frameRate": 24
+    },
+    {
+      "name": "singLEFTmiss",
+      "prefix": "DJC sadIn",
+      "frameRate": 24
+    },
+    {
+      "name": "singDOWNmiss",
+      "prefix": "DJC sadIn",
+      "frameRate": 24
+    },
+    {
+      "name": "singUPmiss",
+      "prefix": "DJC sadIn",
+      "frameRate": 24
+    },
+    {
+      "name": "singRIGHTmiss",
+      "prefix": "DJC sadIn",
+      "frameRate": 24
+    },
+    {
+      "name": "hey",
+      "prefix": "DJC hey",
+      "frameRate": 24
+    },
+    {
+      "name": "laugh",
+      "prefix": "DJC laugh",
+      "frameRate": 24,
+      "looped": true
+    },
+    {
+      "name": "firstDeath",
+      "prefix": "DJC sadIn",
+      "frameRate": 24
+    },
+    {
+      "name": "deathLoop",
+      "prefix": "DJC sad",
+      "frameRate": 24,
+      "looped": true
+    },
+    {
+      "name": "deathConfirm",
+      "prefix": "DJC hey",
+      "frameRate": 24
+    }
+  ]
+}
