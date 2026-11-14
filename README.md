@@ -1,3 +1,5 @@
+<p align="center"><img src="images/logo.png" alt="Python Engine" width="520"></p>
+
 # FNF Python Engine
 
 A Friday Night Funkin' engine written in **Python** with pygame. It reads the data and assets of Friday Night Funkin' (V-Slice charts, Sparrow spritesheets, Adobe Animate atlases, stages, weeks) and plays them natively, without Haxe or `Funkin.exe`.
