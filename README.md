@@ -8,7 +8,7 @@ This engine was created for my YouTube video: [https://www.youtube.com/watch?v=a
 
 **Current version: 2.0.0**. Download the ready-to-play Windows build from the [Releases](https://github.com/DJCreeperYTB/FNF-Python-Engine/releases) page.
 
-![FNF Python Engine](images/banner.png)
+![FNF Python Engine](images/gameplay.png)
 
 ## What's new in V2.0
 
@@ -38,7 +38,7 @@ This engine was created for my YouTube video: [https://www.youtube.com/watch?v=a
 | | |
 |---|---|
 | ![Freeplay](images/freeplay.png) | ![Modifiers](images/modifiers.png) |
-| ![Gameplay](images/gameplay.png) | ![Dialogue](images/dialogue.png) |
+| ![Main menu](images/menu.png) | ![Dialogue](images/dialogue.png) |
 | ![Chart editor](images/chart-editor.png) | ![Halloween Night example mod](images/example-mod.png) |
 | ![Trophies](images/trophies.png) | ![Options](images/options.png) |
 

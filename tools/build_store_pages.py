@@ -189,7 +189,7 @@ def compose():
             if src.exists(): shutil.copy(src, ROOT / "wiki" / f"FNF Python Engine {song.replace('-', ' ').title()}{label}.mp3")
     icon = ROOT / "mods_src" / "ExampleMod" / "images" / "icons" / "icon-djcreeper.png"
     if icon.exists(): shutil.copy(icon, ROOT / "wiki" / "FNF Python Engine DJCreeper Icon.png")
-    gh = [("banner.png", "mod_spot"), ("menu.png", "main"), ("freeplay.png", "freeplay"), ("modifiers.png", "freeplay_mods"),
+    gh = [("menu.png", "main"), ("freeplay.png", "freeplay"), ("modifiers.png", "freeplay_mods"),
           ("gameplay.png", "week7"), ("dialogue.png", "dialogue"), ("chart-editor.png", "chart_editor"),
           ("example-mod.png", "mod_light"), ("trophies.png", "trophies"), ("options.png", "options")]
     for out, src in gh:
