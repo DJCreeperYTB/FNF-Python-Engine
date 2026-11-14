@@ -102,6 +102,10 @@ Result: `dist/FNF Python/FNF Python.exe`, with the `mods/` folder (example mod a
 - `pyfnf/mods.py`: mod discovery, `.zip`, Python scripts
 - `mods_src/ExampleMod/`: source of the example mod; `tools/`: scripts that build it
 
+## Bugs and ideas
+
+Found a bug or have an idea for a change? Please create an issue: [github.com/DJCreeperYTB/FNF-Python-Engine/issues](https://github.com/DJCreeperYTB/FNF-Python-Engine/issues).
+
 ## Support
 
 Optional: [paypal.me/djcreeperytb](https://www.paypal.me/djcreeperytb). Also check my other mod, [Vs. DJCreeper](https://gamebanana.com/mods/732063).
@@ -181,6 +185,10 @@ Le code source ne contient pas les assets du jeu : place à côté de `main.py` 
 - Partie : `D F J K` ou les flèches (modifiables dans `Options > Controls`)
 - En partie : `R` recommence la chanson, `Échap` met en pause, `7` ouvre l'éditeur de chart
 - Résultats : `Entrée` continuer, `R` rejouer, `Échap` menu
+
+## Bugs et idées
+
+Un bug ou une idée de modification ? Crée une issue : [github.com/DJCreeperYTB/FNF-Python-Engine/issues](https://github.com/DJCreeperYTB/FNF-Python-Engine/issues).
 
 ## Soutien
 
